@@ -61,7 +61,7 @@
 
 <div align="center">
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rxy.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xDarkX.png" alt="Your Image Badge" />
 
 </div>
 
